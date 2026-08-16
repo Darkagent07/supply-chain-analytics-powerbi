@@ -93,7 +93,8 @@ Focuses on:
 - Inventory value
 - SKU-level inventory analysis
 
-![Inventory Analytics](screenshots/inventory-analytics.png)
+![Inventory Analytics](Inventory_analytics.png)
+
 
 ### 3. Sales & Demand
 Analyzes:
@@ -105,7 +106,7 @@ Analyzes:
 - Forecast error by SKU
 - Regional demand
 
-![Sales & Demand](screenshots/sales-demand.png)
+![Sales & Demand](Sales%26Demand.png)
 
 ### 4. Supplier Performance
 Evaluates:
@@ -116,7 +117,7 @@ Evaluates:
 - Supplier order quantities
 - Supplier-level performance
 
-![Supplier Performance](screenshots/supplier-performance.png)
+![Supplier Performance](Supplier_performance.png)
 
 ### 5. Operations & Logistics
 Analyzes:
@@ -128,8 +129,7 @@ Analyzes:
 - Reorder compliance
 - Inventory vs demand by SKU
 
-![Operations & Logistics](screenshots/operations-logistics.png)
-
+![Operations & Logistics](Operations_logistics.png)
 ## 💡 Key Business Insights
 
 ### Strong profitability
