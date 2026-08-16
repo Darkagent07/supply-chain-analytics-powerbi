@@ -81,7 +81,7 @@ Provides a high-level view of:
 - Regional and warehouse performance
 - Revenue and demand trends
 
-![Executive Summary](screenshots/executive-summary.png)
+![Executive Summary](executive-summary.png)
 
 ### 2. Inventory Analytics
 Focuses on:
